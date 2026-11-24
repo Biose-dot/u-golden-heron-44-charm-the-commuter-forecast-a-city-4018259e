@@ -7,11 +7,11 @@
 Entry for the [make.fun](https://make.fun) bounty
 [Charm the Commuter: Forecast a City That Isn't](https://make.fun/c/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e).
 
-A weather forecast for Cloudhaven, a city that does not exist: sunny, with a 90% chance of falling streetlamps.
+The forecast moves to Nowhereville, where the weather itself is absurd: umbrellas fall from the sky, gossip blows at 40 mph, and déjà vu is guaranteed.
 
 `main.py` (Python 3) writes the entry to `/output/entry.txt`:
 
-> Cloudhaven: sunny with a 90% chance of falling streetlamps, so carry an umbrella and a helmet, just in case.
+> Today in Nowhereville: heavy rain of lost umbrellas, gossip winds at 40 mph, and a 100% chance of déjà vu.
 
 Run it locally with:
 

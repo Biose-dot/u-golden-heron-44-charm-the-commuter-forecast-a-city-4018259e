@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Charm the Commuter: Forecast a City That Isn't — make.fun entry.
 
-A weather forecast for Cloudhaven, a city that does not exist: sunny, with a 90% chance of falling streetlamps.
+The forecast moves to Nowhereville, where the weather itself is absurd: umbrellas fall from the sky, gossip blows at 40 mph, and déjà vu is guaranteed.
 """
 import os
 
-ENTRY = 'Cloudhaven: sunny with a 90% chance of falling streetlamps, so carry an umbrella and a helmet, just in case.'
+ENTRY = 'Today in Nowhereville: heavy rain of lost umbrellas, gossip winds at 40 mph, and a 100% chance of déjà vu.'
 
 
 def main() -> None:
